@@ -1,118 +1,94 @@
-<h1 align="center">Hi there, I'm Tran Huu Hieu 👋</h1>
-<h3 align="center">AI Engineer | LLM • RAG • AI Agents • NLP</h3>
+<div align="center">
 
-<p align="center">
-  Building practical AI systems with LLMs, RAG, and Applied Machine Learning
-</p>
+# Hi there, I'm Tran Hieu 👋
 
-<p align="center">
-  <a href="https://github.com/huyhung9630">
-    <img src="https://komarev.com/ghpvc/?username=huyhung9630&label=Profile%20Views&color=7B68EE&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/huyhung9630?tab=followers">
-    <img src="https://img.shields.io/github/followers/huyhung9630?label=Followers&style=for-the-badge&color=0E76A8" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=AI+Engineer+by+Day;Multi-Agent+Orchestrator+by+Night)](https://git.io/typing-svg)
 
----
+[![GitHub followers](https://img.shields.io/github/followers/huyhung9630?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/huyhung9630)
+[![GitHub User's stars](https://img.shields.io/github/stars/huyhung9630?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/huyhung9630)
+[![Profile Views](https://komarev.com/ghpvc/?username=huyhung9630&style=for-the-badge&color=blueviolet)](https://github.com/huyhung9630)
 
-## 🧠 About Me
-
-AI Engineer focused on building practical **LLM**, **RAG**, and **applied machine learning** solutions.  
-I enjoy developing **AI agents**, **document intelligence pipelines**, and **NLP/deep learning systems** that turn research ideas into reliable real-world products.
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql)
+<div align="center">
 
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-1F2937?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-1F2937?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-1F2937?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-1F2937?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-1F2937?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-1F2937?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-1F2937?style=for-the-badge)
-![Fine-tuning](https://img.shields.io/badge/Fine--tuning-1F2937?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-00C853?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-00BFFF?style=for-the-badge&logo=googlegemini&logoColor=white)
+![IDK](https://img.shields.io/badge/IDK-666666?style=for-the-badge&logo=question&logoColor=white)
+![Claude Does It All](https://img.shields.io/badge/Claude_Does_It_All-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex Does It All](https://img.shields.io/badge/Codex_Does_It_All-0F172A?style=for-the-badge&logo=openai&logoColor=white)
 
-### Frameworks & Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
-![FAISS](https://img.shields.io/badge/FAISS-111827?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector%20Database-111827?style=for-the-badge)
+*I work by day, mass-vibe-code with AI by night*✨
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyhung9630&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyhung9630&layout=compact&theme=tokyonight" height="170"/>
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huyhung9630&theme=tokyo-night" />
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huyhung9630&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/huyhung9630/huyhung9630/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/huyhung9630/huyhung9630/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-## 📌 Featured Work
+## 📫 Connect With Me
 
-- 🤖 **Enterprise RAG Platform**  
-  Built a domain-aware RAG system with multiple expert personas, vector search, conversation memory, and multi-turn chat management.
+<div align="center">
 
-- 📄 **BOQ Standardization Automation**  
-  Designed an end-to-end pipeline to convert raw BOQs from Excel/PDF into standardized procurement BOQs using LLM-based normalization and AI-generated descriptions.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huyhung9630)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tr%E1%BA%A7n-h%E1%BB%AFu-hi%E1%BA%BFu-b274313b3//)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hieutranhuu04@gmail.com)
 
-- 🧠 **Lecturer Recommendation via Topic Modeling**  
-  Implemented NLP/topic modeling methods for recommending suitable supervisors based on research publications.
-
-- 🤟 **Sign Language Recognition**  
-  Exploring deep learning methods for video-based and keypoint-based sign language recognition.
-
-- 🔊 **Environmental Sound Event Classification**  
-  Developed an end-to-end classification system using a customized Audio Spectrogram Transformer.
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/huyhung9630"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:hieutranhuu04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
 ```text
-💼 Current role      AI Engineer / AI Fresher
-🚀 Building          RAG systems, LLM agents, document automation pipelines
-🧠 Interested in     NLP, Deep Learning, Computer Vision, Applied AI
-📚 Learning          Advanced LLM orchestration, fine-tuning, production AI systems
-🎯 Goal              Turn AI research into reliable real-world products
+💹 Day job       AI Engineer
+🔭 Side project  Multi-Agent Orchestration Systems
+💬 Ask me about  AI Agents, Automation
+⚡ Fun fact      I mass-vibe-code with AI
+```
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+*One must imagine a multi-agent system happy.*
+
+**🪨 The boulder never stops.**
+
+</div>
